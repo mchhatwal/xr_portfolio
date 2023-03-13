@@ -10,6 +10,6 @@ Simulate the comings and goings of 1695 BBB at UMich.
 
 ### Project 2: ARGo! 
 
-CSE Simulator can be found [here](https://www.youtube.com/watch?v=I98d0JSJ3eU).
+ARGo can be found [here](https://www.youtube.com/watch?v=I98d0JSJ3eU).
 
 Pokémon-Go styled game for Michigan students. Plant trees around campus and protect them from Ann Arbor's infamous squirrels! 
