@@ -13,3 +13,9 @@ Simulate the comings and goings of 1695 BBB at UMich.
 ARGo can be found [here](https://www.youtube.com/watch?v=I98d0JSJ3eU).
 
 Pokémon-Go styled game for Michigan students. Plant trees around campus and protect them from Ann Arbor's infamous squirrels! 
+
+### Project 3: The Restaurant Simulator 
+
+The Restaurant Simulator can be found [here](https://p3-devlog.webflow.io/). 
+
+The Restaurant Simulator is an entertaining, interactive way to learn about price fluctuations and shifting market conditions. Manage a full restaurant supply chain, from growing your food, to managing your inventory through the shop, to serving customers, all while cooking fun recipes in virtual reality! 
